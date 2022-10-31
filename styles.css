@@ -1,5 +1,5 @@
 body {
-    background: rgb(93, 64, 160);
+    background: rgb(80, 33, 190);
     font-family: sans-serif;
 }
 
@@ -7,7 +7,7 @@ body {
     display:flex;
     padding:10px;
     margin:10px;
-    background:rgb(82, 201, 181);
+    background: rgb(4, 134, 123);
     border-radius: 20px;
 }
 
@@ -15,11 +15,11 @@ body {
     width:200px;
     height:200px;
     margin: 10px;
-    border: 10px solid  rgb(15, 155, 173);
+    border: 10px solid  rgb(26, 191, 212);
 }
 
 .assignment img:hover{
-    border: 10px solid  rgb(27, 184, 171);
+    border: 10px solid  rgb(82, 201, 181);
 }
 
 h1{
@@ -33,5 +33,5 @@ a {
 }
 
 a:hover{
-    color:rgb(177, 23, 248);
+    color:rgb(98, 30, 255);
 }
