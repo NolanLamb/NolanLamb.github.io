@@ -1,12 +1,18 @@
 body {
-    background: rgb(80, 33, 190);
+    background: rgb(255, 255, 255);
     font-family: sans-serif;
 }
 
+.assignments{
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .assignment{
-    display:flex;
+    width:22%;
     padding:10px;
     margin:10px;
+    padding: 20px 10px;
     background: rgb(4, 134, 123);
     border-radius: 20px;
 }
@@ -16,6 +22,8 @@ body {
     height:200px;
     margin: 10px;
     border: 10px solid  rgb(26, 191, 212);
+    display: block;
+    margin: auto;
 }
 
 .assignment img:hover{
@@ -25,6 +33,10 @@ body {
 h1{
     color:  rgb(30, 71, 255);
     text-align:center;
+}
+
+h2{
+    text-align: center;
 }
 
 a {
